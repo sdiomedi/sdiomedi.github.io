@@ -18,8 +18,7 @@ news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 social: true # includes social icons at the bottom of the page
 ---
-
-I am a postdoctoral researcher at the Department of Biomedical and Neuromotor Sciences at the University of Bologna, in the Neurophysiology of the visuomotor sistem laboratory headed by Prof. Patrizia Fattori.
+I am a Senior Research Fellow at the Institute of Cognitive Sciences and Technologies of Padova, Italy, working on neurocomputational modelling and supervised by Ivilin Stoianov. I also collaborate intensively with the laboratory Neurophysiology of the visuomotor sistem lead by Prof. Patrizia Fattori at University of Bologna.
 
 🧠 About Me:
 
