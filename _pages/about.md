@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Bologna</a>. 
+subtitle: <a href='#'>National Research Council</a>. 
 
 profile:
   align: right
